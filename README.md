@@ -56,7 +56,7 @@ Built using Visual Studio Code and Python 3.8.5
 None
 
 ## Future Development
-None
+Add feature to detect when someone has inputed something that is not a number
 
 ## Created by 
-Jason Francis
+Grant Smith
